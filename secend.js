@@ -59,7 +59,19 @@
 // }
 
 
+// const number =11;
+// if(number < 10){
+//     console.log("chota akta number paici ami")
+// }
 
+// else{
+//     console.log('something is new cooking here')
+// }
 
+//adding here while loop here
 
-
+let num = 1;
+while(num <= 5){
+    console.log('looping')
+    num ++;
+}
