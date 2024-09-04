@@ -87,3 +87,12 @@
 //     console.log(discount)
 //     console.log('I will go to market')
 // }
+
+// const price =  5000;
+// if( price >= 5000){
+//     // 10% discount 
+//     const discount = price * 10 / 100;
+//     const payAmout = price -discount;
+//     console.log(payAmout)
+//     console.log(discount)
+// }
